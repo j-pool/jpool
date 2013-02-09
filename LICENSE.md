@@ -1,7 +1,7 @@
 ### The MIT License
 
 Copyright (c) 2013 Andrew R. Hawker
-https://github.com/ahawker/jpool
+https://github.com/j-pool/jpool
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
